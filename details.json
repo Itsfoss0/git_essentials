@@ -3,5 +3,10 @@
     "languages": {
         "backend": "python", 
         "frontend" : "Javascript", 
+    },
+    "user": "James",
+    "languages": {
+        "backend": "NodeJS", 
+        "frontend" : "Abgular", 
     }
 }
