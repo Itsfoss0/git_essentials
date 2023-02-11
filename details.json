@@ -1,6 +1,18 @@
 {
     "user": "Itsfoss0",
     "languages": {
+
+        "backend": "python",
+        "frontend" : "Javascript"
+    }
+},
+{
+    "user": "Joe",
+    "languages": {
+        "backend": "nodejs", 
+        "frontend" : "Javascript"
+    }
+}
         "backend": "python", 
 
         "frontend" : "Javascript", 
@@ -11,7 +23,6 @@
         "frontend" : "Abgular", 
     }
 }
-
         "frontend" : "HTML, Javascript", 
     },
     "user": "Rodney",
