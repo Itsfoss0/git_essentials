@@ -1,7 +1,7 @@
 {
     "user": "Itsfoss0",
     "languages": {
-        "backend": "python", 
+        "backend": "python",
         "frontend" : "Javascript"
     }
 },
@@ -12,3 +12,16 @@
         "frontend" : "Javascript"
     }
 }
+        "frontend" : "HTML, Javascript", 
+    },
+    "user": "Rodney",
+    "languages": {
+        "backend": "Javascript", 
+        "frontend" : "HTML, Javascript, CSS", 
+    },
+} "user": "Irodney",
+"languages": {
+    "backend": "javascript", 
+    "frontend" : "HTML, css", 
+},
+
