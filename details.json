@@ -2,6 +2,7 @@
     "user": "Itsfoss0",
     "languages": {
         "backend": "python", 
+
         "frontend" : "Javascript", 
     },
     "user": "James",
@@ -10,3 +11,17 @@
         "frontend" : "Abgular", 
     }
 }
+
+        "frontend" : "HTML, Javascript", 
+    },
+    "user": "Rodney",
+    "languages": {
+        "backend": "Javascript", 
+        "frontend" : "HTML, Javascript, CSS", 
+    },
+} "user": "Irodney",
+"languages": {
+    "backend": "javascript", 
+    "frontend" : "HTML, css", 
+},
+
