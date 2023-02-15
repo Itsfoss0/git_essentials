@@ -1,38 +1,40 @@
-{
-    "user": "Itsfoss0",
-    "languages": {
-
-        "backend": "python",
-        "frontend" : "Javascript"
-    }
-},
-{
-    "user": "Joe",
-    "languages": {
-        "backend": "nodejs", 
-        "frontend" : "Javascript"
-    }
-}
-        "backend": "python", 
-
-        "frontend" : "Javascript", 
+[
+    {
+        "user": "Itsfoss0",
+        "languages": {
+    
+            "backend": "python",
+            "frontend" : "Javascript"
+        }
+        
     },
-    "user": "James",
-    "languages": {
-        "backend": "NodeJS", 
-        "frontend" : "Abgular", 
-    }
-}
-        "frontend" : "HTML, Javascript", 
+    {
+        "user": "grand-rick001",
+        "languages": {
+    
+            "backend": "JavScript",
+            "frontend" : "JavaScript"
+        }
     },
-    "user": "Rodney",
-    "languages": {
-        "backend": "Javascript", 
-        "frontend" : "HTML, Javascript, CSS", 
+    {
+        "user": "Joe",
+        "languages": {
+            "backend": "nodejs", 
+            "frontend" : "Javascript"
+        }
     },
-} "user": "Irodney",
-"languages": {
-    "backend": "javascript", 
-    "frontend" : "HTML, css", 
-},
-
+    {
+        "user": "James",
+        "languages": {
+            "backend": "NodeJS", 
+            "frontend" : "Angular"
+        }
+    },
+    {
+        "user": "Rodney",
+        "languages": {
+            "backend": "Javascript", 
+            "frontend" : "HTML, Javascript, CSS"
+        }
+    } 
+]
